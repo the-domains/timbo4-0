@@ -1,0 +1,28 @@
+name: Timbo4.0
+favicon: null
+layout_spectrum: 0.9145165288355201
+typography_spectrum: 0.5799754676409066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.13437098683789372
+  lightness: 0.8307748853694648
+  saturation: 0.7257746576797217
+  rhythmicContrast: 0.8444015171844512
+purpose: []
